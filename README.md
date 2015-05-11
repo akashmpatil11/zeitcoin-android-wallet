@@ -1,4 +1,4 @@
-Welcome to _Bitcoin Wallet_, a standalone Bitcoin payment app for your Android device!
+Welcome to ZeitcoinWallet, a standalone ZEIT payment app for your Android device!
 
 This project contains several sub-projects:
 
